@@ -4,6 +4,9 @@
 #  }
 #end
 
+# Delayed job gem
+require_recipe 'delayed_job'
+
 # uncomment if you want to run postgres recipe
 #require_recipe 'postgres'
 
